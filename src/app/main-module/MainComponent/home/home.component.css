@@ -12,19 +12,19 @@
     font-family: 'Nunito', sans-serif;
     font-weight: 600;
     transition: .5s;
-    background-color: rgb(255, 193, 7,0.5);
+    background-color: rgb(233, 116, 81);
 }
 
 .myButton:hover{
-    background-color: #ffc107;
+    background-color: rgb(255, 87, 51);
 }
 
 .bg-warning{
-    background-color: rgb(255, 193, 7,0.5);
+    background-color: rgb(233, 116, 81);
 }
 
 .bg-warning:hover{
-    background-color: #ffc107;
+    background-color: rgb(255, 87, 51);
 }
 
 .btn-primary,
@@ -99,7 +99,10 @@
 }
 
 
-
+/* facts card color */
+.factscolor{
+    background-color:rgb(255, 87, 51) ;
+}
 
 
 /* header */
@@ -116,7 +119,7 @@
 } */
 .btn1{
     margin: -4px;
-    background-color:rgb(255, 193, 7,0.5);
+    background-color:rgb(233, 116, 81);
 }
 
 .btn2{
@@ -143,36 +146,37 @@
 
 /* workwithus */
 .workWithUs{
-    background-color: rgb(255, 193, 7,0.5);
+    background-color: rgb(233, 116, 81);
 }
 /* workwithus */
 
 
 /* services  */
 .service{
-    color: rgb(255, 193, 7,0.5);
+    color: rgb(233, 116, 81);
 }
 .service-p{
     color: rgb(139,139,139);
 }
 .learnMore{
-    background-color:rgb(255, 193, 7,0.5);    
+    background-color:rgb(233, 116, 81);    
 }
 /* services  */
 
 
 /* faq  */
 .faq{
-    background-color: rgb(255, 193, 7,0.5);
+    background-color: rgb(233, 116, 81);
 }
 .faq-h5{
     color: black;
 }
 .faq-h3{
     line-height: inherit;
+    color: black;
 }
 .faq-p{
-    color: rgb(139,139,139);
+    color: white;
 }
 
 
@@ -281,7 +285,7 @@
 
 /* form  */
 .formCol-1{
-    background-color: rgb(255, 193, 7,0.5);
+    background-color: rgb(233, 116, 81);
     
 }
 .section-border{
@@ -297,15 +301,15 @@ border-radius:0 30px 30px 0;
 
 }
 .btn-text{
-    color: #008DA9;
+    color: rgb(233, 116, 81);
 
 }
 .btn-text:hover{
-    color: #008DA9;
+    color:black;
     
 }
 .btn-2{
-    background-color: #008DA9;
+    background-color:black;
     
 }
 /* form  */

@@ -1,8 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Kaisei+Tokumin:wght@400;500;700&family=Poppins:wght@300;400;500&display=swap');
-/* 
-lite	 rgb(233, 116, 81)
 
-dark rgb(255, 87, 51) */
 :root{
     --lg-font: 'Kaisei Tokumin', serif;
     --sm-font: 'Poppins', sans-serif;
